@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "367368154263",
+    "project_id": "madebymaa-633ee",
+    "storage_bucket": "madebymaa-633ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367368154263:android:2ecb27f27ada74ac658dd2",
+        "android_client_info": {
+          "package_name": "com.madebymaa.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367368154263-6l64q49tvsooab9oi6benlpeh9g5e86p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebymaa.food",
+            "certificate_hash": "0a3c1cb80bd156530d4ca33b27b681cb5f3b3b10"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA93w58EdNdL5Eo3Ifgk1a1i9dE_LXtWpQ"
+        },
+        {
+          "current_key": "AIzaSyCQ8C08ImDz0seo-QxIpIwzbOofeoLpoSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367368154263-lphrnem73g1psrkhpjbm7l384vbhbl9v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madebymaa.food"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367368154263:android:0fe8b60dc9d6ec6b658dd2",
+        "android_client_info": {
+          "package_name": "com.madebymaa.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367368154263-8tag3ugijjqpug65ivsj4g9svji17676.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebymaa.merchant",
+            "certificate_hash": "480c588176538e7feefef016fe873d4703bb7839"
+          }
+        },
+        {
+          "client_id": "367368154263-o8m4165antrolof49ho9045g24snrr93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebymaa.merchant",
+            "certificate_hash": "20387b3f1ffe293333845cd96a2bb97e94370b7d"
+          }
+        },
+        {
+          "client_id": "367368154263-p4thtf13f3l8v5bkiids5k8lpjrau66u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebymaa.merchant",
+            "certificate_hash": "0a3c1cb80bd156530d4ca33b27b681cb5f3b3b10"
+          }
+        },
+        {
+          "client_id": "367368154263-q6q5prdm6bcsn3lbhlfcf5pc75otc5mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebymaa.merchant",
+            "certificate_hash": "bbcd4c08cdd1a4310980cd7c87fc9f786eb1b329"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA93w58EdNdL5Eo3Ifgk1a1i9dE_LXtWpQ"
+        },
+        {
+          "current_key": "AIzaSyCQ8C08ImDz0seo-QxIpIwzbOofeoLpoSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367368154263-lphrnem73g1psrkhpjbm7l384vbhbl9v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madebymaa.food"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367368154263:android:2c28a43b47e424ae658dd2",
+        "android_client_info": {
+          "package_name": "com.madebymaa.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367368154263-dh44jehm4jg2crhad0k25766hbi7ajav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebymaa.seller",
+            "certificate_hash": "e50ac242e8a351795c18c8091cdd2bc0aa5aa244"
+          }
+        },
+        {
+          "client_id": "367368154263-f9h7dvpp96si8b3nkflh6p6irlfkb1o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebymaa.seller",
+            "certificate_hash": "bbcd4c08cdd1a4310980cd7c87fc9f786eb1b329"
+          }
+        },
+        {
+          "client_id": "367368154263-q7vap13ot29vftiehinofsuc6teh1j9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebymaa.seller",
+            "certificate_hash": "0a3c1cb80bd156530d4ca33b27b681cb5f3b3b10"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA93w58EdNdL5Eo3Ifgk1a1i9dE_LXtWpQ"
+        },
+        {
+          "current_key": "AIzaSyCQ8C08ImDz0seo-QxIpIwzbOofeoLpoSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367368154263-lphrnem73g1psrkhpjbm7l384vbhbl9v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madebymaa.food"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

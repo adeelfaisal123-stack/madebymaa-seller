@@ -1,0 +1,10 @@
+# Copy to android/key.properties and fill in your Play upload keystore details.
+# Play Console expects upload certificate SHA1:
+# BB:CD:4C:08:CD:D1:A4:31:09:80:CD:7C:87:FC:9F:78:6E:B1:B3:29
+#
+# Verify before uploading:
+#   cd android && ./gradlew :app:signingReport
+storePassword=
+keyPassword=
+keyAlias=
+storeFile=upload-keystore.jks
